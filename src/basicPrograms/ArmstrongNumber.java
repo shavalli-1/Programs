@@ -3,7 +3,7 @@ package basicPrograms;
 public class ArmstrongNumber {
 
 //armstrong number 257 = 2^3+5^3+7^3=257 then it is the armstrong number;
-
+//another comment.
 
     public static void findIsArmstrong(int number) {
         if (number < 0) throw new IllegalArgumentException("Please enter the number greater than zero");
